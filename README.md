@@ -1,1 +1,14 @@
-its all shit eat my ass hoe
+-# Warzone
+ -Minehut's Warzone plugin supports tens of unique players on a monthly basis. It's modular design it to support one game-type on a per-map basis by restarting the server. 
+ -
+ -## Setup
+ -Just run `mvn clean install` inside of the directory to build the project. We used Intellij to develop this plugin and strongly urge you too as well!
+ -
+ -## Code Style
+ - we steal code
+ -
+ -## Things to note
+ -1. Dev environments are currently not supported. I'l be adding an easy way to setup a test server soon.
+ -
+ -## About Warzone's Code
+ -Warzone was a stolen project and now we use synconix to code our minigames
